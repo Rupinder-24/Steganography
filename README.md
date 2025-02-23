@@ -5,7 +5,7 @@ Steganography is the art of hiding the fact that communication is taking place, 
 
 LANGUAGE USED: PYTHON
 
-Libraries Used:
+# Libraries Used:
 OpenCV (cv2) - Used for reading and writing image files. 
 OS (os) - Used to open the encrypted image after embedding the message.
 String (string) - Provides characters used for encoding the message. 
